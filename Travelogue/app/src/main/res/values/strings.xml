@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Travelogue</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="places">
+        <item>Bandarban</item>
+        <item>Chittagong Reserve Forest</item>
+        <item>Keokradong</item>
+        <item>Kuakata</item>
+        <item>Nafakhum</item>
+        <item>Nijhum Dwip</item>
+        <item>Old Dhaka</item>
+        <item>Rangamati</item>
+        <item>Sajek Valley</item>
+        <item>Sonargaon</item>
+        <item>Sreemangal</item>
+        <item>St. martin Island</item>
+        <item>Sundarbans</item>
+        <item>Sylhet Waterways</item>
+        <item>Tanguar Haor</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>Breathtaking Bandarban Exploration</item>
+        <item>Camping Experience at Reserve Forest Chittagong</item>
+        <item>Keokradong Hiking Experience-Stay with tribal community</item>
+        <item>Kuakata Beach and Lifestyle Experience</item>
+        <item>Nafakhum Waterfall Hiking Tour</item>
+        <item>Nijhum Dwip Lifestyle Tour</item>
+        <item>Old Dhaka Walking Tour</item>
+        <item>Rangamati Adventure Tour-Experience Waterfalls and Hiking</item>
+        <item>Explore Rangamati Sajek Valley</item>
+        <item>Sonargaon Day Trip-The Lost City of Panam</item>
+        <item>Tea Garden and Rain Forest Expedition including Experience Moniputi way of life</item>
+        <item>St. Martin Island Tour</item>
+        <item>Sundarbans Day Long Tour</item>
+        <item>Sylhet Waterways Exploration</item>
+        <item>Lifestyle Experience on a boat</item>
+    </string-array>
+
+</resources>
